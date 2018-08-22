@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="restaurant">
+        <item>Pizza Hut</item>
+        <item>Backyard Barbeque</item>
+        <item>Chick A Dilly</item>
+        <item>Domino Pizza</item>
+        <item>|| Brothers Italian</item>
+        <item>Tokyo</item>
+        <item>Chen Chen Chinese</item>
+        <item>Taco Bell</item>
+        <item>Burger King</item>
+        <item>KFC</item>
+        <item>My Kitchen table</item>
+        <item>Antiguas Grill </item>
+        <item>Flying Burger</item>
+        <item>Wade's Burgers</item>
+    </string-array>
+
+    <string-array name="restaurant_address">
+        <item>1621 E Main St</item>
+        <item>1407 E Main St</item>
+        <item>616 E Main St</item>
+        <item>1645 E Main St</item>
+        <item>915 E main st</item>
+        <item>621 E main st</item>
+        <item>309 N Fredrick</item>
+        <item>1521 E Main st</item>
+        <item>1114 E Main st</item>
+        <item> 1509 E Main st</item>
+        <item>101 S Jefferson</item>
+        <item>2051 N Jackson</item>
+        <item>1898 E University st</item>
+        <item>540 w Main st</item>
+    </string-array>
+    <string-array name="hotels">
+        <item>Hampton Inn</item>
+        <item>Quality Inn</item>
+        <item>Holiday Inn</item>
+        <item>Loft On the Square</item>
+        <item>Magnuson Hotel</item>
+        <item>Magnolia Inn</item>
+        <item>Dollar Save Inn</item>
+        <item>Budget Inn</item>
+        <item>Economy Inn</item>
+    </string-array>
+    <string-array name="hotel_address">
+        <item>128 Hwy 79</item>
+        <item>411 E Main</item>
+        <item>1604 E Main</item>
+        <item>105 S Court Square</item>
+        <item>42 E Main</item>
+        <item>1302 E Main</item>
+        <item>301 E Main</item>
+        <item>912 E Main</item>
+        <item>1001 Vine Ave</item>
+    </string-array>
+    <string-array name="churches">
+        <item>Resurrection Ministries</item>
+        <item>First Baptist Church</item>
+        <item>Central Baptist Church</item>
+        <item>Southview Church of Christ</item>
+        <item>Unity Church Magnolia</item>
+        <item>New Life Community Church </item>
+        <item>First United Pentecostal Church</item>
+        <item>Asbury United Methodist Church</item>
+        <item>College View Baptist Church</item>
+        <item>Immaculate Heart Mary Catholic</item>
+        <item>Jackson St Church Of Christ</item>
+    </string-array>
+    <string-array name="church_addresses">
+        <item>7250 Hwy 98</item>
+        <item>318 E Main St</item>
+        <item>207 W Union St</item>
+        <item>234 Fairview</item>
+        <item>92 Us Hwy 79 Noth</item>
+        <item>2020 Washington St</item>
+        <item>1604 Hollensworth St</item>
+        <item>1300 EUniversity St</item>
+        <item>2121 N Washington</item>
+        <item>2114 N Jackson</item>
+        <item>320 W Main St</item>
+        <item>313 S Jackson St</item>
+    </string-array>
+    <string-array name="events">
+        <item>Blossom Festival</item>
+        <item>PurpleHull Pea Festival</item>
+        <item>Sparks in the Park</item>
+        <item>Harry Potter Month Sorting Day</item>
+        <item>Twin Rivers Blues Festival</item>
+        <item>Hot Springs Blues Festival</item>
+        <item>Hoo Rah Days</item>
+    </string-array>
+    <string-array name="event_dates">
+        <item>May 18 and May 19</item>
+        <item>June 29 to June 30</item>
+        <item>June 30</item>
+        <item>JULY 07</item>
+        <item>August 04</item>
+        <item>September 01</item>
+        <item>October 06</item>
+    </string-array>
+    <string-array name="city_state">
+        <item>Emerson Ark 71740</item>
+        <item>Magnolia Ark 71753</item>
+        <item>Mcneil Ark 71752</item>
+        <item>Hope Ark 71780</item>
+        <item>Little Rock Ark 71784</item>
+        <item>Mcneil Ark 53210</item>
+        <item>Madison Ark 71752</item>
+        <item>Emerson Ark 71740</item>
+        <item>Magnolia Ark 71753</item>
+        <item>Mcneil Ark 71752</item>
+        <item>Hope Ark 71780</item>
+        <item>Little Rock Ark 71784</item>
+        <item>Mcneil Ark 53210</item>
+        <item>Madison Ark 71752</item>
+    </string-array>
+
+</resources>

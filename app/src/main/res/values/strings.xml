@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Magnolia Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category_church">Insight</string>
+    <string name="category_restaurant">Meal</string>
+    <string name="category_hotel">Hotels</string>
+    <string name="category_events">Events</string>
+    <string name="image_description">Image of Place</string>
+</resources>
